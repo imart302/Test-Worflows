@@ -9,3 +9,9 @@ conflict
 test
 another
 commit
+
+
+conflicts
+with
+another
+branch
